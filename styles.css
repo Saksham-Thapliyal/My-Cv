@@ -1,0 +1,28 @@
+img { padding-right: 0px;
+padding-left: 0px;
+margin-left: 0px;
+margin-right: 0px;
+height: 190px;
+width: 300px;}
+h2{ padding-bottom: 0px; 
+padding-top: 0px;
+margin-top: 0px;
+margin-bottom: 0px;
+color: orangered;}
+h4 {padding-bottom: 0px; 
+    padding-top: 5px;
+    margin-top: 5px;
+    margin-bottom: 0px;}
+p{ color:black;}
+li{ color: black} h1{color: black;}
+body{ background-image: url( soft-gradient-solid-color-gradient-hd-wallpaper-preview.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;}
+hr{padding-top: 2.5px;
+padding-bottom: 2.5px;
+width: 75%;
+border-style: dotted none none;
+border-color: black;
+border-width: 6px;
+}
